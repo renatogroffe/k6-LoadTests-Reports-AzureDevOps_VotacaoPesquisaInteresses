@@ -16,7 +16,7 @@ variables:
   htmtReportK6: 'loadtests-results.html'
   simultaneousUsers: 100
   totalRequests: 5000
-  urlWebApp: 'https://groffesitequestao.lemongrass-65dd08f3.eastus.azurecontainerapps.io'
+  urlWebApp: 'URL DO WEBSITE'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
